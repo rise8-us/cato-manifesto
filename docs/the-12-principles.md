@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # The 12 Principles behind the Manifesto
 
 We still believe that the Agile Manifesto for Software Development’s principles have withstood the test of time and are completely relevant to, and perhaps always included, security and privacy. We therefore offer them here with slight refactoring to emphasize what has always been true:

@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Manifesto for a Continuous Delivery Risk Management Framework (CD-RMF)©
 
 **AKA THE C-ATO MANIFESTO**
