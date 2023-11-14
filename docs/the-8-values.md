@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # The 8 Values
 
 We are uncovering better ways of [managing security and privacy risk] by doing it and helping others do it. Through this work, we have come to value:
