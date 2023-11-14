@@ -37,7 +37,7 @@ plugins:
   - search
   - print-site
 nav:
-  - 'Manifesto':'index.md'
-  - 'The 8 Values':'the-8-values.md'
-  - 'The 12 Principles':'the-12-principles.md'
-  - 'History':'history.md'
+  - 'Manifesto': 'index.md'
+  - 'The 8 Values': 'the-8-values.md'
+  - 'The 12 Principles': 'the-12-principles.md'
+  - 'History': 'history.md'
