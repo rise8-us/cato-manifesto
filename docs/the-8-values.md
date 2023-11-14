@@ -18,3 +18,7 @@ We are uncovering better ways of [managing security and privacy risk] by doing i
     - We believe in clear visibility into our RMF processes, technologies, and their outputs, ensuring that all stakeholders understand, trust, and can validate our approach at any time.
 9. **Tailored Implementations over One-size-fits-all**
     - While generic solutions can provide a foundation, we prioritize implementations that meet the unique mission objectives for each organization.
+
+<br/>
+
+That is, while there is value in the items on the right, we value the items on the left more.
