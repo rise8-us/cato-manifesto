@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # History: The Evolution of Continuous Authority to Operate
 
 It is important to understand that this has already been done. 
