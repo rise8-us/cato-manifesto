@@ -22,4 +22,4 @@ This manifesto and the [playbook](https://rise8-us.github.io/cato-playbook/) aim
 
 <br/>
 
-[^1]: Manifesto for Agile Software Development [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html) 
+[^1]: Manifesto for Agile Software Development [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/) 
