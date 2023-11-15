@@ -21,3 +21,5 @@ The US Air Force pioneered such an implementation which resulted in a Continuous
 This manifesto and the [playbook](https://rise8-us.github.io/cato-playbook/) aim to align the community around achieving the “early and continuous delivery of valuable software” in federal government as promised by the [*Manifesto for Agile Software Development*](https://agilemanifesto.org/). Given that, we have intentionally stayed true to the format and content of the Manifesto, highlighting how compliant DevOps naturally fits in.
 
 <br/>
+
+> *This artifact draws heavily from the Manifesto for Agile Software Development, which can be found at: https://agilemanifesto.org/*

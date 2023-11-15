@@ -21,3 +21,7 @@ We still believe that the [*Agile Manifesto for Software Development’s princip
 11. “The best [privacy/security] architectures, requirements, and designs emerge from self-organizing teams.”
 12. “At regular intervals, the [cross-functional] team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.”
 
+<br/>
+
+> *This artifact draws heavily from the Manifesto for Agile Software Development, which can be found at: https://agilemanifesto.org/*
+
