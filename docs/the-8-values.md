@@ -31,4 +31,4 @@ hide:
 
 <br/>
 
-*This artifact draws heavily from the Manifesto for Agile Software Development, which can be found at: https://agilemanifesto.org/*
+> *This artifact draws heavily from the Manifesto for Agile Software Development, which can be found at: https://agilemanifesto.org/*
