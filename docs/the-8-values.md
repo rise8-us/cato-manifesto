@@ -6,7 +6,7 @@ hide:
 
 # The 8 Values
 
-This page draws heavily from the *Manifesto for Agile Software Development*[^1] in that, “We are uncovering better ways of [managing security and privacy risk] by doing it and helping others do it. Through this work, we have come to value:”
+“We are uncovering better ways of [managing security and privacy risk] by doing it and helping others do it. Through this work, we have come to value:”
 
 1. **Proactive Prevention over Reactive Remediation**
     - While we recognize the importance of addressing vulnerabilities and breaches, we prioritize building systems that prevent these issues from arising in the first place.
@@ -31,4 +31,4 @@ This page draws heavily from the *Manifesto for Agile Software Development*[^1] 
 
 <br/>
 
-[^1]: Manifesto for Agile Software Development [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/) 
+*This artifact draws heavily from the Manifesto for Agile Software Development, which can be found at: https://agilemanifesto.org/*
