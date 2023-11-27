@@ -1,10 +1,11 @@
 site_name: cATO Manifesto
-site_url: https://rise8-us.github.io/cato-Manifesto
-repo_url: https://github.com/rise8-us/cato-Manifesto
+site_url: https://rise8-us.github.io/cato-manifesto
+repo_url: https://github.com/rise8-us/cato-manifesto
 edit_uri: edit/main/docs/
-repo_name: cato-Manifesto
+repo_name: cato-manifesto
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: images/r8.png
   favicon: images/r8.png
 #  logo: images/logo.png
@@ -17,7 +18,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/rise8-us/cato-Manifesto
+      link: https://github.com/rise8-us/cato-manifesto
 extra_css: [extra.css]
 markdown_extensions:
   - abbr
@@ -38,7 +39,17 @@ markdown_extensions:
   - admonition
 plugins:
   - search
-  - print-site
+  - with-pdf:
+      output_path: assets/cATO_Manifesto.pdf
+      author: Rise8
+      copyright: © 2023
+      cover_subtitle: ""
+      toc_title: Table of Contents
+      toc_level: 1
+      ordered_chapter_level: 0
+      two_columns_level: 0
+  - print-site:
+      path_to_pdf: "assets/cATO_Manifesto.pdf"
 nav:
   - 'Manifesto': 'index.md'
   - 'The 8 Values': 'the-8-values.md'
