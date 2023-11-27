@@ -39,6 +39,8 @@ markdown_extensions:
   - admonition
 plugins:
   - search
+  - git-revision-date-localized:
+      type: iso_datetime
   - with-pdf:
       output_path: assets/cATO_Manifesto.pdf
       author: Rise8
